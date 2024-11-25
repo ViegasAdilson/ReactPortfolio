@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import "./project.css";
 import { projectos } from "../../data/data-project";
 

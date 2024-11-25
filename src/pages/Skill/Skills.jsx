@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import "./skill.css";
 import { stack } from "../../data/data-skill";
 

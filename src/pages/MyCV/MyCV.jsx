@@ -1,13 +1,17 @@
+import "./mycv.css";
+
 function MyCV() {
   return (
-    <div>
+    <div className="cv-container">
       <div id="cv-cabecalho">
         <h3 className="highlight">Adilson Pires Lima Viegas</h3>
         <h4 className="highlight">Junior Web\Software Developer</h4>
-        <p style="margin-bottom: 0px">
+        <p>
+          {/* style="margin-bottom: 0px" */}
           <strong>Address:</strong> Leigh, Manchester
         </p>
-        <p style="margin-bottom: 0px">
+        <p>
+          {/* style="margin-bottom: 0px" */}
           <strong>Telephone:</strong> 07831185225
         </p>
       </div>
