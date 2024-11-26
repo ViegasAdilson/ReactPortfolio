@@ -24,7 +24,7 @@ function Skills() {
   return (
     <div className="section-Skills">
       <h2 id="skills-section-title">Tech Stack</h2>
-      <h4 className="decription">Discover the technologies I study:</h4>
+      <h4 className="decription">Discover the technologies that I studied:</h4>
       <p></p>
       <div className="skill-ontaineir">
         {stack.map((box) => (

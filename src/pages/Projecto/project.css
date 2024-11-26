@@ -1,6 +1,7 @@
 .project-section {
   min-height: 100vh;
   width: 70%;
+  padding-top: 30px;
   position: absolute;
   background: #dad5c3;
   overflow-y: scroll;
@@ -8,6 +9,7 @@
 .titile-section {
   display: flex;
   align-items: center;
+  padding: 20px;
   justify-content: center;
 }
 

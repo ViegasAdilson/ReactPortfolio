@@ -18,7 +18,6 @@ function Project() {
 }
 
 function Capa({ objProject }) {
-  console.log(objProject);
   return (
     <div className="capa">
       <div className="front">

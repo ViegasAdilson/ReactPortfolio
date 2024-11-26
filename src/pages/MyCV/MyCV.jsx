@@ -77,6 +77,7 @@ function MyCV() {
               <p>
                 <strong>{empl.position}</strong>
               </p>
+
               <ul>
                 {empl.skills.map((skill) => (
                   <li key={skill[0]}>{skill}</li>
